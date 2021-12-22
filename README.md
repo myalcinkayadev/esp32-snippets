@@ -16,8 +16,8 @@ The main purpose of this repo is to collect samples that may be needed especiall
 
 ## Example
 * [Base64 Encode Decode with mbedtls](#base64-encode-decode)
-* [SQLite3]
-* [NFC Pool]
+* SQLite3
+* NFC Pool
 
 ### Base64 Encode Decode with mbedtls
 `main/base64_main.c` – [Example](https://github.com/myalcinkayadev/esp32-base64-mbedtls) of base64 encode and decode  using mbedtls.
