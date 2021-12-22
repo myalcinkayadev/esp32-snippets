@@ -19,11 +19,11 @@ The main purpose of this repo is to collect samples that may be needed especiall
 * [SQLite3]
 * [NFC Pool]
 
-### [Base64 Encode Decode with mbedtls](https://github.com/myalcinkayadev/esp32-base64-mbedtls)
-`main/base64_main.c` – Example of base64 encode and decode  using mbedtls.
+### Base64 Encode Decode with mbedtls
+`main/base64_main.c` – [Example](https://github.com/myalcinkayadev/esp32-base64-mbedtls) of base64 encode and decode  using mbedtls.
 
-### [SQLite3](https://github.com/myalcinkayadev/esp32-sqlite3)
-`main/sqlite3_main.c` – Example of sqlite3 adapted for ESP environment.
+### SQLite3
+`main/sqlite3_main.c` - [Example](https://github.com/myalcinkayadev/esp32-sqlite3) of sqlite3 adapted for ESP environment.
 
-### [NFC Pool](https://github.com/myalcinkayadev/esp32-libnfc)
-`main/nfc_pool_main.c` – Example of nfc pool adapted for ESP environment and written using [libnfc](https://github.com/nfc-tools/libnfc).
+### NFC Pool
+`main/nfc_pool_main.c` – [Example](https://github.com/myalcinkayadev/esp32-libnfc) of nfc pool adapted for ESP environment and written using [libnfc](https://github.com/nfc-tools/libnfc).
