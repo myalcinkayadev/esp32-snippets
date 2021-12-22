@@ -12,9 +12,10 @@ The main purpose of this repo is to collect samples that may be needed especiall
 
 ### Table of contents
 
-* [Examples](#examples)
+* [Snippets](#snippets)
+* [Demos](#demos)
 
-## Example
+## Snippets
 * [Base64 Encode Decode with mbedtls](#base64-encode-decode-with-mbedtls)
 * [SQLite3](#sqlite3)
 * [NFC Pool](#nfc-pool)
