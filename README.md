@@ -18,6 +18,8 @@ The main purpose of this repo is to collect samples that may be needed especiall
 * [Base64 Encode Decode with mbedtls](#base64-encode-decode-with-mbedtls)
 * [SQLite3](#sqlite3)
 * [NFC Pool](#nfc-pool)
+* [Websocket client](#websocket-client)
+* [Websocket client with protobuf](#websocket-client-with-protobuf)
 
 ### Base64 Encode Decode with mbedtls
 `main/base64_main.c` – [Example](https://github.com/myalcinkayadev/esp32-base64-mbedtls) of base64 encode and decode  using mbedtls.
@@ -27,3 +29,7 @@ The main purpose of this repo is to collect samples that may be needed especiall
 
 ### NFC Pool
 `main/nfc_pool_main.c` – [Example](https://github.com/myalcinkayadev/esp32-libnfc) of nfc pool adapted for ESP environment and written using [libnfc](https://github.com/nfc-tools/libnfc).
+
+### Websocket client
+
+### Websocket client with protobuf
