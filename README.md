@@ -1,6 +1,6 @@
 # ESP32 Snippets
 
-The main purpose of this repo is to collect samples that may be needed especially in real applications based on IoT, so that research time is shortened and more time is left for development.
+The main purpose of this repo is to collect samples that may be needed especially in real-life applications based on IoT, so that research time is shortened and more time is left for development.
 
 ## Quickstart
 - [Documentation](https://docs.espressif.com/projects/esp-idf/en/latest/esp32)
@@ -17,5 +17,5 @@ The main purpose of this repo is to collect samples that may be needed especiall
 ## Example
 * [Base64 Encode Decode with mbedtls](#base64-encode-decode)
 
-### [Base64 Encode Decode with mbedtls](https://github.com/myalcinkayadev/esp32-base64)
+### [Base64 Encode Decode with mbedtls](https://github.com/myalcinkayadev/esp32-base64-mbedtls)
 `main/base64_main.c` – Example of base64 encode and decode written using mbedtls.
