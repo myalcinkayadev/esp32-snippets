@@ -34,3 +34,15 @@ The main purpose of this repo is to collect samples that may be needed especiall
 ### Websocket client
 
 ### Websocket client with protobuf
+
+## Demos
+* [ESP32 httpd preact application](#esp32-httpd-preact-application)
+* [Preact embedded starter](#preact-embedded-starter)
+
+### ESP32 httpd preact application
+[Example](https://github.com/myalcinkayadev/esp32-preact-httpd-demo)
+
+### Preact embedded starter
+Web app with a modern web framework for an embedded device, due to limited storage(under 100kb) and processing power(single microcontroller and <50 KB of ram)
+<br>
+[Demo](https://github.com/myalcinkayadev/preact-embedded-starter)
